@@ -20,4 +20,5 @@ public class RegisterServerApplication {
         SpringApplication.run(RegisterServerApplication.class,args);
     }
 
+    
 }
